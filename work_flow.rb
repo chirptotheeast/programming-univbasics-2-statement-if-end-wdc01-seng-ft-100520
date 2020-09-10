@@ -15,7 +15,7 @@ puts "Code after if...end"
 
 
 
-chance_of_rain = 0.3
+chance_of_rain = -23
 if chance_of_rain <= 0.25
   puts "Pack a sun shelter!"
   elsif 
